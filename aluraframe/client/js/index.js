@@ -6,7 +6,7 @@ var campos = [
 
 
 var tbody = document.querySelector('table tbody');
-console.log(campos);
+
 document.querySelector('.form').addEventListener('submit', function(event){
     
     event.preventDefault();
